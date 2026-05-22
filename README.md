@@ -1,7 +1,7 @@
 # 🎮 AppGen Master
 
 <p align="center">
-  <img src="public/favicon.svg" alt="AppGen Master Logo" width="96" height="96">
+  <img src="https://raw.githubusercontent.com/oniccostume/appgen-master-public/main/favicon.svg" alt="AppGen Master Logo" width="96" height="96">
 </p>
 
 <p align="center">
